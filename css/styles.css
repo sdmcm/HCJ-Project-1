@@ -10,11 +10,11 @@ h1 {
 p {
   padding: 5px;
   margin-top: 0px;
-  clear: both;
+  /*clear: both;*/
 }
 
 .box {
-  background-color: gray;
+  background-color: #8c8c8c;
   outline: 2px solid black ;
   position: relative;
   margin: 15px;
@@ -23,25 +23,25 @@ p {
 p.title {
   background-color: orange;
   outline: 2px solid black;
+  margin-left: 5px;
   font-size: 125%;
   text-align:center;
-  width: 170px;
+  width: 140px;
   position: relative;
   float: right;
   margin-bottom: 0px;
 }
 
 #chicken{
- background-color: #f7a8b4;
+ background-color: #fffcb0;
 }
 
 #beef{
-  background-color: #821223;
-  color: white;
+  background-color: #b0fff1;
 }
 
 #sushi{
-  background-color: #e8e499;
+  background-color: #c2b0ff;
 }
 
 /* Simple Responsive Framework. */
