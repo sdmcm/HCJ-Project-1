@@ -1,6 +1,6 @@
 /********** Base styles **********/
 * {
-  box-sizing: border-box; font-family:Arial; font-size: 14pt;
+  box-sizing: border-box; font-family:Arial; font-size: 13pt;
 }
 h1 {
   text-align: center;
@@ -10,7 +10,7 @@ h1 {
 p {
   padding: 5px;
   margin-top: 0px;
-  /*clear: both;*/
+  clear: both;
 }
 
 .box {
@@ -25,7 +25,7 @@ p.title {
   outline: 2px solid black;
   font-size: 125%;
   text-align:center;
-  width: 100px;
+  width: 170px;
   position: relative;
   float: right;
   margin-bottom: 0px;
